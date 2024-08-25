@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GouravEkaggata
+- 👋 Hi, I’m @GouravGourav
 - 👀 I’m interested in ...automation my tasks
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...anything related on python
